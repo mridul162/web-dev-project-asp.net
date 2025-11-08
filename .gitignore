@@ -29,6 +29,7 @@ bld/
 
 # Visual Studio 2015/2017 cache/options directory
 .vs/
+.vs/Furqan
 
 # Visual Studio cache files
 # files ending in .cache can be ignored
@@ -194,3 +195,5 @@ $RECYCLE.BIN/
 # Uncomment and customize based on your upload directories
 # Furqan/Images/User/*
 # !Furqan/Images/User/.gitkeep
+
+.gitattributes
